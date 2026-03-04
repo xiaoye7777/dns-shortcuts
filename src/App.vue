@@ -13,6 +13,8 @@ import HelloWorld from './components/HelloWorld.vue'
   </div>
   <HelloWorld msg="Vite + Vue" />
   <div class="text-3xl text-rose-500">999</div>
+  <div class="text-3xl text-rose-500">test</div>
+
 </template>
 
 <style scoped>
